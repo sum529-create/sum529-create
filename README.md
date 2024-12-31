@@ -14,7 +14,16 @@ Here are some ideas to get you started:
 -->
 ![YOLO](https://img.shields.io/badge/YOLO-yes-green?style=flat-circle)
 ![Status](https://img.shields.io/badge/Status-active-blue?style=flat-circle)
-![header](https://capsule-render.vercel.app/api?type=slice)
+<h1 align="center">
+  <img src="https://img.shields.io/badge/Venom-Pink-ff69b4?style=for-the-badge&logo=react&logoColor=white" alt="Venom"/>
+</h1>
+
+<h2 align="center">Welcome to My Profile 💖</h2>
+
+<p align="center">
+  This is my amazing README with a <strong>Venom-inspired</strong> header! 🌸
+</p>
+
 
 Welcome to my GitHub profile! I'm a passionate frontend developer who enjoys creating user-friendly and visually stunning applications. Here's a little bit about me and my tech journey. 🚀
 
