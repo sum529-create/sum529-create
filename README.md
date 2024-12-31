@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![YOLO](https://img.shields.io/badge/YOLO-yes-green?style=flat-circle)
+![Status](https://img.shields.io/badge/Status-active-blue?style=flat-circle)
 # Hi there! 👋 I'm Sumin
 
 Welcome to my GitHub profile! I'm a passionate frontend developer who enjoys creating user-friendly and visually stunning applications. Here's a little bit about me and my tech journey. 🚀
