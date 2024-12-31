@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Stars](https://img.shields.io/github/stars/sumin/my-repository?style=social)
-![Language](https://img.shields.io/github/languages/top/sumin/my-repository)
-
 # Hi there! 👋 I'm Sumin
 
 Welcome to my GitHub profile! I'm a passionate frontend developer who enjoys creating user-friendly and visually stunning applications. Here's a little bit about me and my tech journey. 🚀
