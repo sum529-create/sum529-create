@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![YOLO](https://img.shields.io/badge/YOLO-yes-green?style=flat-circle)
 ![Status](https://img.shields.io/badge/Status-active-blue?style=flat-circle)
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice)
 
 Welcome to my GitHub profile! I'm a passionate frontend developer who enjoys creating user-friendly and visually stunning applications. Here's a little bit about me and my tech journey. 🚀
 
