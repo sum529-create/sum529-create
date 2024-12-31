@@ -14,15 +14,14 @@ Here are some ideas to get you started:
 -->
 ![YOLO](https://img.shields.io/badge/YOLO-yes-green?style=flat-circle)
 ![Status](https://img.shields.io/badge/Status-active-blue?style=flat-circle)
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Creative%20front-end&fontAlign=80&fontAlignY=40&color=gradient&colors=ff7eb3,ff65a3,ff4c97)
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20SUMIN.&fontSize=70&color=0:ff61a6,100:ff4b89&stroke=ff4b89)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Creative%20front-end&fontAlign=50&fontAlignY=50&color=gradient&colors=ff66b3,ff4d9e,ff3385)
 
-
-
-제 GitHub 프로필에 오신 것을 환영합니다! 저는 사용자 친화적이고 시각적으로 멋진 애플리케이션을 만드는 것을 즐기는 열정적인 프론트엔드 개발자입니다. 저와 제 기술 여정에 대해 조금 말씀드리겠습니다. 🚀
+제 GitHub 프로필에 오신 것을 환영합니다!<br/>
+저는 사용자 친화적이고 시각적으로 멋진 애플리케이션을 만드는 것을 즐기는 열정적인 프론트엔드 개발자입니다. <br/>
+저와 제 기술 여정에 대해 조금 말씀드리겠습니다. 🚀<br/>
 
 ---
-
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20SUMIN.&fontSize=70&color=0:ff66b3,100:ff4d9e&stroke=ff3385)
 ## 🌟 About Me
 - 🌱 지속 가능한 웹 솔루션을 향한 노력
 - 💪 프로젝트 성공을 위한 열정과 헌신
