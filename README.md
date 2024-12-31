@@ -18,14 +18,17 @@ Here are some ideas to get you started:
 
 
 
-Welcome to my GitHub profile! I'm a passionate frontend developer who enjoys creating user-friendly and visually stunning applications. Here's a little bit about me and my tech journey. 🚀
+제 GitHub 프로필에 오신 것을 환영합니다! 저는 사용자 친화적이고 시각적으로 멋진 애플리케이션을 만드는 것을 즐기는 열정적인 프론트엔드 개발자입니다. 저와 제 기술 여정에 대해 조금 말씀드리겠습니다. 🚀
 
 ---
 
 ## 🌟 About Me
-- 🎨 I love designing intuitive and interactive user experiences.
-- 🔍 Always exploring and learning new technologies.
-- 🌐 Open to collaborating on exciting projects and contributing to open-source.
+- 🌱 지속 가능한 웹 솔루션을 향한 노력
+- 💪 프로젝트 성공을 위한 열정과 헌신
+- 🤝 팀과의 협업을 통해 더 나은 결과를 창출
+- 🎨 UI/UX 디자인과 개발을 통해 가치를 더하는
+- 🌟 세련된 디자인과 원활한 사용자 경험을 제공하는
+- 👨‍💻 웹 개발을 즐기는 개발자입니다.
 
 ---
 
