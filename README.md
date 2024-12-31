@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![Stars](https://img.shields.io/github/stars/sumin/my-repository?style=social)
+![Language](https://img.shields.io/github/languages/top/sumin/my-repository)
 
 # Hi there! 👋 I'm Sumin
 
