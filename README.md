@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![YOLO](https://img.shields.io/badge/YOLO-yes-green?style=flat-circle)
 ![Status](https://img.shields.io/badge/Status-active-blue?style=flat-circle)
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Venom.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20SUMIN.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 
 
