@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![YOLO](https://img.shields.io/badge/YOLO-yes-green?style=flat-circle)
-![Status](https://img.shields.io/badge/Status-active-blue?style=flat-circle)
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Creative%20front-end&fontAlign=50&fontAlignY=50&color=gradient&colors=ff66b3,ff4d9e,ff3385)
 
 제 GitHub 프로필에 오신 것을 환영합니다!<br/>
