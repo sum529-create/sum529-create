@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Creative%20front-end&fontAlign=50&fontAlignY=50&color=gradient&colors=ff66b3,ff4d9e,ff3385)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FF69B4&width=435&lines=Welcome+to+my+Project!;Let%27s+Collaborate!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FF69B4&width=435&lines=Building+the+Future+with+Code!;Innovative+Solutions%2C+One+Line+at+a+Time!;Let's+Code+the+Future+Together!;Innovative+Ideas+in+Every+Line!;Shaping+the+Future+with+Code!;Let's+Create+Something+Amazing+Together!
+)
 
 제 GitHub 프로필에 오신 것을 환영합니다!<br/>
 저는 사용자 친화적이고 시각적으로 멋진 애플리케이션을 만드는 것을 즐기는 열정적인 프론트엔드 개발자입니다. <br/>
