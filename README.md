@@ -76,4 +76,4 @@ Here are some ideas to get you started:
 ## 📫 Feel Free to Contact Me
 - ![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat) [coyasium@gmail.com](mailto:coyasium@gmail.com)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat) [GitHub Profile](https://github.com/sum529-create)
-- [velog](https://velog.io/@sum529/posts)
+- ![velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)[Sumin Velog](https://velog.io/@sum529/posts)
