@@ -13,22 +13,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Creative%20front-end&fontAlign=50&fontAlignY=50&color=gradient&colors=ff66b3,ff4d9e,ff3385)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FF69B4&width=435&lines=Building+the+Future+with+Code!;Innovative+Solutions%2C+One+Line+at+a+Time!;Let's+Code+the+Future+Together!;Innovative+Ideas+in+Every+Line!;Shaping+the+Future+with+Code!;Let's+Create+Something+Amazing+Together!
-)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FF69B4&width=435&lines=Building+the+Future+with+Code!;React+%2B+TypeScript+Developer;Performance+Optimization+Expert;TanStack+Query+%7C+Next.js+%7C+Vue.js)
 
-제 GitHub 프로필에 오신 것을 환영합니다!<br/>
-저는 사용자 친화적이고 시각적으로 멋진 애플리케이션을 만드는 것을 즐기는 열정적인 프론트엔드 개발자입니다. <br/>
-저와 제 기술 여정에 대해 조금 말씀드리겠습니다. 🚀<br/>
+제 GitHub 프로필에 오신 것을 환영합니다! 👋<br/>
+**사용자 경험 개선과 성능 최적화**에 집중하는 프론트엔드 개발자입니다.<br/>
 
 ---
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20SUMIN.&fontSize=70&color=0:ff66b3,100:ff4d9e&stroke=ff3385)
 ## 🌟 About Me
-- 🌱 지속 가능한 웹 솔루션을 향한 노력
-- 💪 프로젝트 성공을 위한 열정과 헌신
-- 🤝 팀과의 협업을 통해 더 나은 결과를 창출
-- 🎨 UI/UX 디자인과 개발을 통해 가치를 더하는
-- 🌟 세련된 디자인과 원활한 사용자 경험을 제공하는
-- 👨‍💻 웹 개발을 즐기는 개발자입니다.
+
+안녕하세요! **React/Next.js 기반의 프론트엔드 개발자** 노수민입니다.
+
+**Vue.js 3년 → React/TypeScript로 기술 스택을 확장**하며 성장해왔습니다.
+
+- 💡 **기술 도입 주도**: TanStack Query 도입으로 API 60% 감소, 서버 부하 43% 절감
+- 📊 **성능 최적화**: Recharts 마이그레이션으로 로딩 속도 35% 개선
+- 🎨 **복잡한 UI 구현**: 법정문서 자동화, GrapeJS 템플릿 빌더, Puppeteer PDF 서버
+- 🤝 **팀 문화 개선**: Git 컨벤션 수립, 코드 리뷰 문화 정착
+- 🌱 **대규모 서비스 운영**: 월 10만명 이상 사용하는 EBS 온라인클래스 3년 운영
+
+**"사용자 경험을 개선하고, 팀 생산성을 높이는"** 것에 관심이 많습니다.
 
 ---
 
