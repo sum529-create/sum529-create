@@ -1,17 +1,3 @@
-<!--
-**sum529-create/sum529-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Creative%20front-end&fontAlign=50&fontAlignY=50&color=gradient&colors=ff66b3,ff4d9e,ff3385)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FF69B4&width=435&lines=Building+the+Future+with+Code!;React+%2B+TypeScript+Developer;Performance+Optimization+Expert;TanStack+Query+%7C+Next.js+%7C+Vue.js)
 
@@ -20,6 +6,9 @@ Here are some ideas to get you started:
 
 ---
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20SUMIN.&fontSize=70&color=0:ff66b3,100:ff4d9e&stroke=ff3385)
+
+---
+
 ## 🌟 About Me
 
 안녕하세요! **React/Next.js 기반의 프론트엔드 개발자** 노수민입니다.
